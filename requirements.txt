@@ -1,0 +1,8 @@
+# Python >=3.10 建議
+flask
+werkzeug
+docling
+requests
+openai
+gunicorn
+python-dotenv
